@@ -27,6 +27,53 @@ These links show products I have worked on. The source code for company-owned pr
 - [Melli Exchange](https://www.mex.co.ir/) — Currency exchange services
 - [Day Exchange](https://dayexc.ir/) — Exchange services platform
 
+## Portfolio snapshots
+
+Representative interface screens from selected professional work. These images are shared for portfolio purposes only; proprietary source code, private repositories, client data, and confidential company information are not included.
+
+### HomZhans — Healthcare Services Platform
+
+<p align="center">
+  <img src="./assets/portfolio/homzhans-healthcare-flow.png" alt="HomZhans healthcare service flow" width="48%">
+  <img src="./assets/portfolio/homzhans-lab-flow.png" alt="HomZhans at-home laboratory flow" width="48%">
+</p>
+
+[View the HomZhans product](https://homzhans.com/) · [Portfolio details](./PORTFOLIO.md#homzhans)
+
+### Merci Booking — Salon Appointment Platform
+
+<p align="center">
+  <img src="./assets/portfolio/merci-booking-customer.jpg" alt="Merci Booking customer appointment flow" width="48%">
+  <img src="./assets/portfolio/merci-booking-management.png" alt="Merci Booking management panel" width="48%">
+</p>
+
+[View the Merci Booking product](https://mercibooking.com/) · [Portfolio details](./PORTFOLIO.md#merci-booking)
+
+### Enterprise Platforms
+
+<p align="center">
+  <img src="./assets/portfolio/baas-in-app-messaging.png" alt="BaaS in-app messaging workflow" width="31%">
+  <img src="./assets/portfolio/baas-push-notifications.png" alt="BaaS push notification workflow" width="31%">
+  <img src="./assets/portfolio/baas-session-analytics.png" alt="BaaS session analytics dashboard" width="31%">
+</p>
+
+<p align="center">
+  <img src="./assets/portfolio/paypod-dashboard.png" alt="Paypod service dashboard" width="31%">
+  <img src="./assets/portfolio/paypod-data-interface.png" alt="Paypod data management interface" width="31%">
+  <img src="./assets/portfolio/paypod-survey.png" alt="Paypod survey workflow" width="31%">
+</p>
+
+[View portfolio details](./PORTFOLIO.md#enterprise-platforms)
+
+### Exchange Platforms
+
+<p align="center">
+  <img src="./assets/portfolio/melli-exchange.png" alt="Melli Exchange platform" width="48%">
+  <img src="./assets/portfolio/day-exchange.png" alt="Day Exchange platform" width="48%">
+</p>
+
+[View Melli Exchange](https://www.mex.co.ir/) · [View Day Exchange](https://dayexc.ir/)
+
 ## Resume
 
 - [English resume repository](https://github.com/rminmh/ali-mahmoodi-resume)
